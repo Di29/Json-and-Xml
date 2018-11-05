@@ -1,0 +1,10 @@
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\bin\Debug\Json'n'Xml.exe.config
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\bin\Debug\Json'n'Xml.exe
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\bin\Debug\Json'n'Xml.pdb
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\obj\Debug\Json'n'Xml.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\obj\Debug\Json'n'Xml.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\obj\Debug\Json'n'Xml.csproj.CopyComplete
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\obj\Debug\Json'n'Xml.exe
+C:\Users\УринбасаровД\source\repos\Json'n'Xml\Json'n'Xml\obj\Debug\Json'n'Xml.pdb
